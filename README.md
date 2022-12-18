@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ctrlc03/ctrlc03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> 
+    <a href="https://discordapp.com/users/ctrlc03#9544" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://github.com/ctrlc03" target="_blank"><img alt="GitHub"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://twitter.com/ctrlc03" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+* Internal auditor and developer within the EF's PSE team. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Interested in ZK, Cairo, Solidity and games. 
 
-Internal auditor and developer within the EF's PSE team. 
+![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrlc03&count_private=true&show_icons=true&theme=tokyonight)
 
-Interested in ZK, Cairo, Solidity and games. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlc03&layout=compact&langs_count=8&theme=tokyonight)
