@@ -15,6 +15,6 @@
 
 #### Stats
 
-![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrlc03&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrlc03&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlc03&layout=compact&langs_count=8&theme=tokyonight)
