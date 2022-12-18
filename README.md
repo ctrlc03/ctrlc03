@@ -9,9 +9,11 @@
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-* Internal auditor and developer within the EF's PSE team. 
+- 🔧 Internal auditor and developer within the EF's PSE team. 
 
-* Interested in ZK, Cairo, Solidity and games. 
+- 👨‍💻 Interested in ZK, Cairo, Solidity and games. 
+
+#### Stats
 
 ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrlc03&count_private=true&show_icons=true&theme=tokyonight)
 
